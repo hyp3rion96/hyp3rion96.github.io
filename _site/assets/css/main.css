@@ -2552,8 +2552,10 @@
 	}
 
 		.image img {
-			border-radius: 0.375em;
-			display: block;
+   			border-radius: 0.375em;
+    		display: block;
+    		/*max-width: 150;*/
+    		padding-right: 30;
 		}
 
 		.image.left, .image.right {

@@ -2555,7 +2555,7 @@
    			border-radius: 0.375em;
     		display: block;
     		/*max-width: 150;*/
-    		padding-right: 30;
+    		/*padding-right: 30;*/
 		}
 
 		.image.left, .image.right {
@@ -3182,6 +3182,7 @@
 				-ms-flex-shrink: 1;
 				flex-shrink: 1;
 				width: 100%;
+				padding-left: 30;
 			}
 
 				.features article .content > :last-child {
